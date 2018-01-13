@@ -7,5 +7,6 @@ jdk: oraclejdk8
 before_install:
   - export ANDROID_HOME=$HOME/android-sdk
   - mkdir -p $ANDROID_HOME
-  - echo $ANDROID_HOME
   - chmod +x gradlew
+after_success:
+  - echo $ANDROID_HOME
