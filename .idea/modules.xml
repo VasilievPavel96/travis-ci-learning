@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/travis-ci-learning.iml" filepath="$PROJECT_DIR$/.idea/modules/travis-ci-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/travis-ci-learning_main.iml" filepath="$PROJECT_DIR$/.idea/modules/travis-ci-learning_main.iml" group="travis-ci-learning" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/travis-ci-learning_test.iml" filepath="$PROJECT_DIR$/.idea/modules/travis-ci-learning_test.iml" group="travis-ci-learning" />
+    </modules>
+  </component>
+</project>
